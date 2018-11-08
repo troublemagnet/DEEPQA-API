@@ -1,6 +1,6 @@
 # DeepQA API
 
-###Prerequisites
+### Prerequisites
 
 * Make sure you have DeepQA installed and trained. It can be found at https://github.com/Conchylicultor/DeepQA
 
